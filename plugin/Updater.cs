@@ -154,7 +154,7 @@ namespace MaterialUI {
 	}
 	
 	public class Updater {
-		public const string repoMaster = "skotlex/ffxiv-material-ui";
+		public const string repoMaster = "Tunnelbliick/ffxiv-material-ui";
 		public const string repoAccent = "sevii77/ffxiv_materialui_accent";
 		
 		private HttpClient httpClient;

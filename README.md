@@ -1,4 +1,4 @@
-Check out Material UI by skotlex [here](https://github.com/skotlex/ffxiv-material-ui)
+Check out Material UI by skotlex (maintained by Tunnelbliick) [here](https://github.com/Tunnelbliick/ffxiv-material-ui)
 
 ![preview](images/preview.png)
 
