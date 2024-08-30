@@ -131,7 +131,7 @@ namespace MaterialUI {
 			Author = "Sevii, skotlex";
 			Description = "";
 			Version = DateTime.Now.ToString("yyyy/MM/dd HH:mm");
-			Website = "https://github.com/Sevii77/ffxiv_materialui_accent";
+			Website = "https://github.com/Tensounder54/ffxiv_materialui_accent";
 			// FileSwaps = new Dictionary<string, string>();
 			// Groups = new Dictionary<string, MetaGroup>();
 		}
@@ -154,8 +154,8 @@ namespace MaterialUI {
 	}
 	
 	public class Updater {
-		public const string repoMaster = "skotlex/ffxiv-material-ui";
-		public const string repoAccent = "sevii77/ffxiv_materialui_accent";
+		public const string repoMaster = "Tunnelbliick/ffxiv-material-ui";
+		public const string repoAccent = "Tensounder54/ffxiv_materialui_accent";
 		
 		private HttpClient httpClient;
 		private MaterialUI main;
