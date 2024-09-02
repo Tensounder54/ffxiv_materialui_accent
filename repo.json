@@ -1,22 +1,22 @@
 [
 	{
-		"Author": "Sevii",
+		"Author": "Sevii, maintained by Tensounder54",
 		"Name": "Material UI",
 		"Description": "Auto updating Material UI with customizable accent color and more. Icon by Mek",
 		"InternalName": "MaterialUI",
-		"AssemblyVersion": "1.4.13",
-		"TestingAssemblyVersion": "1.4.13",
-		"RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
+		"AssemblyVersion": "1.5.0",
+		"TestingAssemblyVersion": "1.5.0",
+		"RepoUrl": "https://github.com/Tensounder54/ffxiv_materialui_accent",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 9,
+		"DalamudApiLevel": 10,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
 		"LastUpdate": 0,
-		"DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-		"DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-		"DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-		"IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
-		"Tags": ["ui", "penumbra", "material", "skotlex", "sevii", "accent", "color"]
+		"DownloadLinkInstall": "https://github.com/Tensounder54/ffxiv_materialui_accent/raw/main/release.zip",
+		"DownloadLinkTesting": "https://github.com/Tensounder54/ffxiv_materialui_accent/raw/main/release.zip",
+		"DownloadLinkUpdate": "https://github.com/Tensounder54/ffxiv_materialui_accent/raw/main/release.zip",
+		"IconUrl": "https://raw.githubusercontent.com/Tensounder54/ffxiv_materialui_accent/main/images/icon.png",
+		"Tags": ["ui", "penumbra", "material", "skotlex", "sevii", "Tunnelbliick", "Tensounder54", "accent", "color"]
 	}
 ]
